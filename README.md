@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Hamed Goli
+- 👀 I’m interested in python , zabbix , docker
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on monitoring and junior python developer
+- 📫 How to reach me https://www.linkedin.com/in/h313g/
